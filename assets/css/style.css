@@ -553,8 +553,8 @@ section {
 
 .featured-services .icon-box {
   padding: 20px;
-  color: #800285;
-  background: #f9f9fa;
+  color: #fff;
+  background: #800285;
   border-radius: 4px;
   border: 1px solid #f9f9fa;
   transition: 0.3s;

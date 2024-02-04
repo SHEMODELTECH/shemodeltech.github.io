@@ -355,7 +355,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #f0d2fc;
+  background: #fff;
   padding-top: 82px;
 }
 
@@ -566,7 +566,7 @@ section {
 }
 
 .featured-services .icon i {
-  color: #FAF9F6;
+  color: #000000;
   font-size: 36px;
 }
 
@@ -577,7 +577,7 @@ section {
 }
 
 .featured-services .title a {
-  color: #F9F6EE;
+  color: #000000;
   transition: 0.3s;
 }
 

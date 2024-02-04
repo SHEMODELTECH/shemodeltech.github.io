@@ -566,7 +566,7 @@ section {
 }
 
 .featured-services .icon i {
-  color: #000000;
+  color: #FFFDD0;
   font-size: 36px;
 }
 
@@ -577,7 +577,7 @@ section {
 }
 
 .featured-services .title a {
-  color: #000000;
+  color: #FFFDD0;
   transition: 0.3s;
 }
 

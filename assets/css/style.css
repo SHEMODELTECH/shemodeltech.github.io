@@ -167,8 +167,8 @@ h6 {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #800285;
-  color: #fff;
+  background: #FFDDFF;
+  color: #000000;
   border-color: #206bfb;
 }
 
@@ -182,7 +182,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: #FFDDFF;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
@@ -291,7 +291,7 @@ h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #FFDDFF;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -323,7 +323,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #fff;
+  background: #FFDDFF;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 

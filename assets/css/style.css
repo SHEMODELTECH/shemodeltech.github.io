@@ -494,7 +494,7 @@ section {
 }
 
 .section-bg {
-  background-color: #FFDDFF;
+  background-color: #f9f9fa;
 }
 
 .section-title {
@@ -637,7 +637,7 @@ section {
   border: 1px solid #fff;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  background: #FFDDFF;
+  background: #fff;
 }
 
 .services .icon-box .icon {
@@ -888,7 +888,7 @@ section {
   font-style: italic;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
-  background: #FFDDFF;
+  background: white;
   position: relative;
   border-radius: 6px;
   position: relative;
@@ -903,20 +903,20 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #FFDDFF;
+  background-color: #800285;
   opacity: 1;
-  border: 1px solid #FFDDFF;
+  border: 1px solid #800285;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #FFDDFF;
+  background-color: #800285;
 }
 
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #FFDDFF;
+  background: #800285;
   background-size: cover;
   padding: 60px 0;
 }
@@ -958,7 +958,7 @@ section {
   text-align: center;
   margin-bottom: 20px;
   padding: 30px 20px;
-  background: #FFDDFF;
+  background: #fff;
 }
 
 .team .member img {
@@ -1808,4 +1808,3 @@ section {
   background: #5fcf80;
   color: #fff;
 }
-

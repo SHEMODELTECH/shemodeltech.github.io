@@ -628,6 +628,12 @@ section {
   margin-bottom: 0;
 }
 
+}
+ .btn-get-started:hover {
+  background-color: black;
+  color: white; /* For better visibility on hover */
+        }
+
 
 /*--------------------------------------------------------------
 # Services

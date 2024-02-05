@@ -1056,8 +1056,8 @@ section {
 .contact .info .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #333;
-  color: #fff;
+  background: #FFDDFF;
+  color: #000000;
   line-height: 1;
   padding: 8px 0;
   border-radius: 50%;
@@ -1322,7 +1322,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #FEEDFF;
+  background: #FFDDFF;
   color: #000000;
   line-height: 1;
   padding: 8px 0;

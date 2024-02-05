@@ -168,7 +168,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   background: #800285;
-  color: #000000;
+  color: white;
   border-color: #206bfb;
 }
 
@@ -382,14 +382,14 @@ h6 {
   padding: 8px 30px 10px 30px;
   border-radius: 4px;
   transition: 0.5s;
-  color: #fff;
+  color: #FFFDD0;
   background: #800285;
   box-shadow: 0 8px 28px rgba(241, 165, 255, 1)
 ;
 }
 
 #hero .btn-get-started:hover {
-  background: #000000;
+  background: #FFFDD0;
   box-shadow: 0 8px 28px rgba(32, 107, 251, 0.45);
 }
 
@@ -412,7 +412,7 @@ h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #800285;
+  color: #FFFDD0;
 }
 
 #hero .animated {

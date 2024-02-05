@@ -659,22 +659,36 @@ section {
   color: #800285;
 }
 
+/* Adjusting the left padding for icons */
 .offer .content ul i {
-  font-size: 20px;
   padding-left: 5px;
-  color: #800285;
 }
 
 .offer .content p:last-child {
   margin-bottom: 0;
 }
 
-}
- .btn-get-started:hover {
+.btn-get-started:hover {
   background-color: black;
   color: white; /* For better visibility on hover */
-        }
+}
 
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .offer .content h3 {
+    font-size: 24px; /* Smaller font size on mobile */
+  }
+
+  .offer .content ul i {
+    font-size: 18px; /* Slightly smaller icons on mobile */
+  }
+
+  .offer .content ul li {
+    padding-bottom: 5px; /* Less space between list items on mobile */
+  }
+
+  /* Additional mobile adjustments can be added here */
+}
 
 /*--------------------------------------------------------------
 # Services

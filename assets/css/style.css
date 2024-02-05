@@ -595,7 +595,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About
+# About 
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
@@ -625,6 +625,46 @@ section {
 }
 
 .about .content p:last-child {
+  margin-bottom: 0;
+}
+
+}
+ .btn-get-started:hover {
+  background-color: black;
+  color: white; /* For better visibility on hover */
+        }
+
+/*--------------------------------------------------------------
+# Offer
+--------------------------------------------------------------*/
+.offer .content h3 {
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+
+.offer .content ul {
+  list-style: none;
+  padding: 5px;
+}
+
+.offer .content ul li {
+  padding-bottom: 8px;
+}
+
+.offer .content ul i {
+  font-size: 20px;
+  padding-right: 5px;
+  color: #800285;
+}
+
+.offer .content ul i {
+  font-size: 20px;
+  padding-left: 5px;
+  color: #800285;
+}
+
+.offer .content p:last-child {
   margin-bottom: 0;
 }
 

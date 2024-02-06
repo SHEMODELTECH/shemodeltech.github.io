@@ -567,7 +567,7 @@ section {
 }
 
 .featured-services .icon i {
-  color: #FFFDD0;
+  color: #000000;
   font-size: 36px;
 }
 
@@ -583,11 +583,11 @@ section {
 }
 
 .featured-services .icon-box:hover {
-  border-color: #FFFDD0;
+  border-color: #000000;
 }
 
 .featured-services .icon-box:hover .title a {
-  color: #FFFDD0;
+  color: #000000;
 }
 
 .featured-services .description {

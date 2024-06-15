@@ -26,7 +26,7 @@ const Partner = () => {
                 </div>
             </div>
             <p className="mt-8 text-lg tracking-wide" data-aos="fade-up" data-aos-duration='900'>
-                To explore partnership opportunities, contact our partnerships team at <a href="mailto:contact@shemodeltech.com" className="font-bold text-black">contact@shemodeltech.com</a>.
+                To explore partnership opportunities, contact our partnerships team at <a href="mailto:shemodeltech@gmail.com" target="_blank" className="font-bold text-black">shemodeltech@gmail.com</a>.
                 Let&apos;s create a future where diversity, innovation, and leadership thrive in technology.
             </p>
         </Container>

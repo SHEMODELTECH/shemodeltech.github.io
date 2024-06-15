@@ -12,6 +12,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import GLightbox from 'glightbox';
 import 'glightbox/dist/css/glightbox.min.css';
+import Footer from "./components/Footer"
 
 function App() {
 
@@ -41,6 +42,7 @@ function App() {
       <Partner />
       <Team />
       <ItSkills />
+      <Footer />
     </div>
   )
 }

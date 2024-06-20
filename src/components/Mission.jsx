@@ -27,7 +27,7 @@ const Mission = () => {
                             className="w-full object-cover object-center"
                         />
                     </div>
-                    <p className="text-[#2B2B2B] text-lg font-bold">Empowerment through Education</p>
+                    <p className="text-[#2B2B2B] text-lg font-bold">Education through IT Skills</p>
                 </div>
                 <div className="text-center" data-aos='fade-up'
           data-aos-easing='linear'

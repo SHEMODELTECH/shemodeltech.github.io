@@ -12,7 +12,7 @@ const Vision = () => {
           data-aos-duration='800'>Our Vision</h1>
                     <p className="text-gray-800 leading-7 tracking-wide" data-aos='fade-up'
           data-aos-easing='linear'
-          data-aos-duration='900'>Our vision is to foster diversity and enable women to excel and flourish in the technology sector by providing access to IT skills, mentorship programs, and networking events.</p>
+          data-aos-duration='900'>Our vision is to foster diversity and enable women to excel and flourish in the technology sector by providing access to IT skills training, mentorship programs, and networking events.</p>
                 </div>
                 <img src={image} alt="Vision" className="md:w-1/2 object-cover object-center shrink-0" data-aos='fade-up'
           data-aos-easing='linear'

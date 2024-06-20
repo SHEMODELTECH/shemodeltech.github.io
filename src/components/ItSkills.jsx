@@ -7,8 +7,7 @@ const ItSkills = () => {
         <p className="text-lg mb-10 tracking-wide leading-7" data-aos='fade-down'
           data-aos-easing='linear'
           data-aos-duration='800'>
-          <strong>SHE MODEL TECH</strong> 
-SHE MODEL TECH empowers women in tech and aspiring professionals through mentorship, IT skills training, and networking. We create an ecosystem where women excel and lead, enhancing innovation and diversity in the tech sector.
+          <strong>SHE MODEL TECH</strong> empowers women in tech and aspiring professionals through mentorship, IT skills training, and networking. We create an ecosystem where women excel and lead, enhancing innovation and diversity in the tech sector.
         </p>
         <button className="bg-black text-white py-3 px-12 rounded-full font-bold" data-aos='fade-down'
           data-aos-easing='linear'

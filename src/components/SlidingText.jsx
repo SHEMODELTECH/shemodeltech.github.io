@@ -8,6 +8,8 @@ const SlidingText = () => {
         <span className="mx-4">Online IT courses</span>
         <span className="mx-4">●</span>
         <span className="mx-4">Tech Summit</span>
+        <span className="mx-4">●</span
+        <span className="mx-4">Tech Community</span>
         <span className="mx-4">●</span>
         <span className="mx-4">Join Dedicated Teams</span>
         <span className="mx-4">●</span>
@@ -16,6 +18,8 @@ const SlidingText = () => {
         <span className="mx-4">Online IT courses</span>
         <span className="mx-4">●</span>
         <span className="mx-4">Tech Summit</span>
+        <span className="mx-4">●</span>
+        <span className="mx-4">Tech Community</span>
         <span className="mx-4">●</span>
         <span className="mx-4">Join Dedicated Teams</span>
       </div>

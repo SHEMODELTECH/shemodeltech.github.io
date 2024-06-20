@@ -27,7 +27,7 @@ const Mission = () => {
                             className="w-full object-cover object-center"
                         />
                     </div>
-                    <p className="text-[#2B2B2B] text-lg font-bold">Education through IT Skills Training</p>
+                    <p className="text-[#2B2B2B] text-lg font-bold">Education</p>
                 </div>
                 <div className="text-center" data-aos='fade-up'
           data-aos-easing='linear'
@@ -39,7 +39,7 @@ const Mission = () => {
                             className="w-full object-cover object-center"
                         />
                     </div>
-                    <p className="text-[#2B2B2B] text-lg font-bold">Mentorship through Expert Mentors</p>
+                    <p className="text-[#2B2B2B] text-lg font-bold">Mentorship</p>
                 </div>
                 <div className="text-center" data-aos='fade-up'
           data-aos-easing='linear'
@@ -51,7 +51,7 @@ const Mission = () => {
                             className="w-full object-cover object-center"
                         />
                     </div>
-                    <p className="text-[#2B2B2B] text-lg font-bold">Networking through Community</p>
+                    <p className="text-[#2B2B2B] text-lg font-bold">Networking</p>
                 </div>
                 <div className="text-center" data-aos='fade-up'
           data-aos-easing='linear'
@@ -63,7 +63,7 @@ const Mission = () => {
                             className="w-full object-cover object-center"
                         />
                     </div>
-                    <p className="text-[#2B2B2B] text-lg font-bold">Leadership through Tech Summit</p>
+                    <p className="text-[#2B2B2B] text-lg font-bold">Leadership</p>
                 </div>
             </div>
         </Container>

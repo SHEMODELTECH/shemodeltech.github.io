@@ -51,7 +51,7 @@ const Mission = () => {
                             className="w-full object-cover object-center"
                         />
                     </div>
-                    <p className="text-[#2B2B2B] text-lg font-bold">Community</p>
+                    <p className="text-[#2B2B2B] text-lg font-bold">Networking</p>
                 </div>
                 <div className="text-center" data-aos='fade-up'
           data-aos-easing='linear'

@@ -65,7 +65,7 @@ const Hero = () => {
           data-aos-duration='800'
         >
           <a href={'https://forms.gle/5oCSSJQVB4si5mgy9'} target="_blank" rel="noopener noreferrer" >
-          Become A Member
+          Become a Member
           </a>
         </button>
       </div>

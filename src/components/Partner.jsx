@@ -10,24 +10,29 @@ const Partner = () => {
                 <div className="bg-[#48EB94] text-left p-6 rounded-xl" data-aos="fade-up" data-aos-duration='800'>
                     <h3 className="text-lg font-bold mb-2">Impact of Your Sponsorship:</h3>
                     <ul className="list-none list-inside">
-                        <li className="mb-1">- Enable access to education, training, and mentorship for women in tech.</li>
-                        <li className="mb-1">- Foster a thriving community of empowered women in technology.</li>
-                        <li className="mb-1">- Drive industry-wide innovation and inclusivity in the tech sector.</li>
+                        <li className="mb-1">- Empowerment through education.</li>
+                        <li className="mb-1">- Building a supportive community.</li>
+                        <li className="mb-1">- Driving innovation.</li>
                     </ul>
                 </div>
                 <div className="bg-[#48EB94] text-left p-6 rounded-xl" data-aos="fade-up" data-aos-duration='800'>
                     <h3 className="text-lg font-bold mb-2">Benefits to Your Organization:</h3>
                     <ul className="list-none list-inside">
-                        <li className="mb-1">- Showcase your brand as a leader in corporate social responsibility and inclusion.</li>
-                        <li className="mb-1">- Gain access to a pipeline of diverse, skilled, and innovative tech talent.</li>
-                        <li className="mb-1">- Amplify your brand visibility through co-branded marketing and event exposure.</li>
-                        <li className="mb-1">- Unlock networking opportunities with other key players and thought leaders in the tech industry.</li>
+                        <li className="mb-1">- Enhance corporate social responsibility.</li>
+                        <li className="mb-1">- Access to a diverse talent pool.</li>
+                        <li className="mb-1">- Brand visibility.</li>
+                        <li className="mb-1">- Networking opportunities.</li>
                     </ul>
                 </div>
             </div>
             <p className="mt-8 text-lg tracking-wide" data-aos="fade-up" data-aos-duration='900'>
                 Be part of this impactful journey by sponsoring our upcoming tech summit events and supporting our initiatives to train and mentor women in tech. 
-                <a href="https://www.favoredonline.com/sponsors" target="_blank" className="font-bold text-black underline">Click here</a> to explore sponsorship opportunities and join us in building a future where diversity, innovation, and leadership thrive in technology.
+            </p>
+            <div className="text-center mt-8">
+                <a href="https://www.favoredonline.com/sponsors" target="_blank" className="inline-block bg-[#EB48D5] text-white font-bold py-3 px-6 rounded-lg text-lg hover:bg-[#c73cb2] transition-all">Become a Sponsor</a>
+            </div>
+            <p className="mt-8 text-lg tracking-wide text-center" data-aos="fade-up" data-aos-duration='900'>
+                Our parent holding company proudly organizes and sponsors our programs. To be part of this movement and explore sponsorship opportunities, visit <a href="https://www.favoredonline.com/sponsors" target="_blank" className="font-bold text-black underline">our sponsorship page</a> and join us in building a future where diversity, innovation, and leadership thrive in technology.
             </p>
         </Container>
     </div>

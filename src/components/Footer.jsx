@@ -7,7 +7,8 @@ const Footer = () => {
 
   return (
     <div className="px-4 py-6 bg-gray-100 md:flex md:items-center md:justify-between border-t-[3px] border-[#3C3A38]">
-        <span className="text-sm text-gray-500 dark:text-gray-300 sm:text-center">© {currentYear} <a href="https://flowbite.com/">SheModelTech</a>. Powered by Favored Online Inc.
+        <span className="text-sm text-gray-500 dark:text-gray-300 sm:text-center">© {currentYear} <a href="https://flowbite.com/">SheModelTech</a>.
+            Powered by <a href="https://www.favoredonline.com/" target="_blank" rel="noopener noreferrer">Favored Online Inc.</a>
         </span>
         <div className="flex items-center mt-4 sm:justify-center md:mt-0 space-x-5 rtl:space-x-reverse">
               <a href="https://www.facebook.com/shemodeltech" target="_blank" className="text-gray-400 hover:text-gray-900">

@@ -10,23 +10,23 @@ const Partner = () => {
                 <div className="bg-[#48EB94] text-left p-6 rounded-xl" data-aos="fade-up" data-aos-duration='800'>
                     <h3 className="text-lg font-bold mb-2">Impact of Your Sponsorship:</h3>
                     <ul className="list-none list-inside">
-                    <li className="mb-1">- Empowerment through education.</li>
-                    <li className="mb-1">- Building a supportive community.</li>
-                    <li className="mb-1">- Driving innovation.</li>
+                        <li className="mb-1">- Empowerment through education, training, and mentorship programs for women in tech.</li>
+                        <li className="mb-1">- Building a supportive and inclusive community for women in technology.</li>
+                        <li className="mb-1">- Driving innovation and closing the gender gap in the tech industry.</li>
                     </ul>
                 </div>
                 <div className="bg-[#48EB94] text-left p-6 rounded-xl" data-aos="fade-up" data-aos-duration='800'>
                     <h3 className="text-lg font-bold mb-2">Benefits to Your Organization:</h3>
                     <ul className="list-none list-inside">
-                    <li className="mb-1">- Enhance corporate social responsibility.</li>
-                    <li className="mb-1">- Access to a diverse talent pool.</li>
-                    <li className="mb-1">- Brand visibility.</li>
-                    <li className="mb-1">- Networking opportunities.</li>
+                        <li className="mb-1">- Enhance corporate social responsibility by supporting gender equity in tech.</li>
+                        <li className="mb-1">- Access to a diverse and skilled talent pool of trained women in tech.</li>
+                        <li className="mb-1">- Amplify your brand visibility and reputation as a champion of diversity and inclusion.</li>
+                        <li className="mb-1">- Exclusive networking opportunities with industry leaders and trailblazers in tech.</li>
                     </ul>
                 </div>
             </div>
             <p className="mt-8 text-lg tracking-wide" data-aos="fade-up" data-aos-duration='900'>
-                To explore partnership opportunities, contact our partnerships team at <a href="mailto:shemodeltech@gmail.com" target="_blank" className="font-bold text-black">shemodeltech@gmail.com</a>.
+                To explore sponsorship opportunities, support our upcoming tech summit events, and contribute to the training and mentorship programs for women in tech, contact our sponsorships team at <a href="mailto:shemodeltech@gmail.com" target="_blank" className="font-bold text-black">shemodeltech@gmail.com</a>.
                 Let&apos;s create a future where diversity, innovation, and leadership thrive in technology.
             </p>
         </Container>

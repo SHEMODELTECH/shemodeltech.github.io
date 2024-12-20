@@ -44,7 +44,7 @@ const Navbar = () => {
           <li><Link to="vision" className="hover:text-pink-500 cursor-pointer">Vision</Link></li>
           <li><Link to="mission" className="hover:text-pink-500 cursor-pointer">Mission</Link></li>
           <li><Link to="slogan" className="hover:text-pink-500 cursor-pointer">Slogan</Link></li>
-          <li><Link to="partner" className="hover:text-pink-500 cursor-pointer">Partner</Link></li>
+          <li><Link to="partner" className="hover:text-pink-500 cursor-pointer">Summit</Link></li>
           <li><Link to="team" className="hover:text-pink-500 cursor-pointer">Team</Link></li>
         </ul>
         <button className="hidden lg:block bg-gray-800 text-white px-6 py-2 rounded-full"><a href={'https://forms.gle/5oCSSJQVB4si5mgy9'} target="_blank" rel="noopener noreferrer" >Become a Member</a></button>
@@ -70,7 +70,7 @@ const Navbar = () => {
               <Link onClick={handleClick} to="slogan" smooth={true} duration={500}>Slogan</Link>
           </li>
           <li className='py-6 text-4xl'>
-              <Link onClick={handleClick} to="partner" smooth={true} duration={500}>Partner</Link>
+              <Link onClick={handleClick} to="partner" smooth={true} duration={500}>Summit</Link>
           </li>
           <li className='py-6 text-4xl'>
               <Link onClick={handleClick} to="team" smooth={true} duration={500}>Team</Link>

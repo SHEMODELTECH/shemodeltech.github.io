@@ -10,10 +10,9 @@ const Partner = () => {
                 <div className="bg-[#48EB94] text-left p-6 rounded-xl" data-aos="fade-up" data-aos-duration='800'>
                     <h3 className="text-lg font-bold mb-2">Key Highlights of the Tech Summit:</h3>
                     <ul className="list-none list-inside">
-                        <li className="mb-1">- Empowerment through education.</li>
+                        <li className="mb-1">- TechTalks and panel discussions.</li>
                         <li className="mb-1">- Building a supportive community.</li>
-                        <li className="mb-1">- Driving innovation and industry change.</li>
-                        <li className="mb-1">- Promoting leadership for women in tech.</li>
+                        <li className="mb-1">- Women in tech leadership sessions.</li>
                         <li className="mb-1">- Exposure to emerging technologies.</li>
                     </ul>
                 </div>

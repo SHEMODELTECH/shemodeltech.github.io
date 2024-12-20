@@ -26,7 +26,7 @@ const Partner = () => {
                 </div>
             </div>
             <p className="mt-8 text-lg tracking-wide" data-aos="fade-up" data-aos-duration='900'>
-                Be part of this impactful journey by sponsoring our upcoming tech summit events and supporting our initiatives to train and mentor women in tech. 
+                Join us on this transformative journey by sponsoring our upcoming tech summit events and supporting our initiatives to empower and mentor women in tech.
             </p>
             <div className="text-center mt-8">
                 <a href="https://www.favoredonline.com/sponsors" target="_blank" className="inline-block bg-[#EB48D5] text-white font-bold py-3 px-6 rounded-lg text-lg hover:bg-[#c73cb2] transition-all">Become a Sponsor</a>

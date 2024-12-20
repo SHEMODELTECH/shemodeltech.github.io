@@ -21,20 +21,12 @@ const Partner = () => {
                     <h3 className="text-lg font-bold mb-2">What You Can Expect:</h3>
                     <ul className="list-none list-inside">
                         <li className="mb-1">- Insightful panel discussions with industry experts.</li>
-                        <li className="mb-1">- Networking opportunities with industry leaders.</li>
+                        <li className="mb-1">- Networking with hiring companies and tech leaders.</li>
+                        <li className="mb-1">- Job fair with top tech companies.</li>
                         <li className="mb-1">- Showcase of groundbreaking innovations and trends.</li>
                     </ul>
                 </div>
             </div>
-            <p className="mt-8 text-lg tracking-wide" data-aos="fade-up" data-aos-duration='900'>
-                Experience the future of technology at our Tech Summit, where visionaries and industry leaders converge to share insights, showcase innovations, and explore the trends shaping the tech landscape.
-            </p>
-            <div className="text-center mt-8">
-                <a href="https://www.favoredonline.com/sponsors" target="_blank" className="inline-block bg-[#EB48D5] text-white font-bold py-3 px-6 rounded-lg text-lg hover:bg-[#c73cb2] transition-all">Learn More</a>
-            </div>
-            <p className="mt-8 text-lg tracking-wide text-center" data-aos="fade-up" data-aos-duration='900'>
-                The Tech Summit is proudly hosted and sponsored by <span className="font-bold">Favored Online</span>. To learn more about this transformative event, visit <a href="https://www.favoredonline.com/sponsors" target="_blank" className="font-bold text-black underline">our event page</a> and be part of the movement shaping the future of technology.
-            </p>
         </Container>
     </div>
   )

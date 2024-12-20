@@ -47,7 +47,7 @@ const Navbar = () => {
           <li><Link to="partner" className="hover:text-pink-500 cursor-pointer">Partner</Link></li>
           <li><Link to="team" className="hover:text-pink-500 cursor-pointer">Team</Link></li>
         </ul>
-        <button className="hidden lg:block bg-gray-800 text-white px-6 py-2 rounded-full"><a href={'https://forms.gle/5oCSSJQVB4si5mgy9'} target="_blank" rel="noopener noreferrer" >Become A Member</a></button>
+        <button className="hidden lg:block bg-gray-800 text-white px-6 py-2 rounded-full"><a href={'https://forms.gle/5oCSSJQVB4si5mgy9'} target="_blank" rel="noopener noreferrer" >Become a Member</a></button>
         <div className='lg:hidden z-50' onClick={handleClick}>
             {!nav ? <FaBars size={18} /> : <FaTimes />}
         </div>
